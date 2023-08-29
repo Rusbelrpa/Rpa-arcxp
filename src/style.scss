@@ -1,0 +1,11 @@
+body {
+  background-attachment: fixed;
+  background-image: url(/static/media/background.6818f86….png);
+  background-position: 100% 0;
+  background-repeat: no-repeat;
+  background: #ffffff;
+}
+
+@import "./header/header.scss";
+@import "./about-me/about-me.scss";
+@import "./countries/countries.scss";
